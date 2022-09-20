@@ -1,0 +1,20 @@
+{
+  "name": "hakam/leet_code_php",
+  "description": "PHP solutions for leet code problems",
+
+  "require": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Hakam\\LeetCodePhp\\": ""
+    }
+  },
+  "authors": [
+    {
+      "name": "Ramy hakam",
+      "email": "pencilsoft1@gmail.com"
+    }
+  ]
+}
